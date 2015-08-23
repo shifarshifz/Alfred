@@ -1,0 +1,46 @@
+file.php - STATISTICS
+#####################
+
+1) POST - /signin
+2) POST - /signup
+3) GET - /verify/:apiKey
+4) POST - /verify/phone
+5) POST - /resend/verification/email
+6) POST - /resend/verification/phone
+7) GET - /me
+8) GET - /status/app
+9) GET - /status/category
+10) GET - /status/category/:id
+11) GET - /status/by/:table
+12) POST - /upload/photo/:type
+13) POST - /product/add
+14) GET - /products
+15) PUT - /product/edit/:id
+16) DELETE - /product/remove/:id
+17) GET - /product/:id
+18) GET - /me/products
+19) PUT - /user/edit
+20) POST - /viewIncrement/:componentType/:componentId
+21) POST - /gcm
+22) POST - /delete/photo/:type
+23) GET - /update/database
+24) GET - /version
+25) POST - /comment/add/:productId
+26) PUT - /comment/edit/:commentId
+27) GET - /me/comments
+28) GET - /comments/:productId
+29) POST - /manageInterest/:productId
+30) POST - /store/add
+31) PUT - /store/edit/:storeId
+32) DELETE - /store/remove/:storeId
+33) GET - /store/:storeId
+34) GET - /me/stores
+
+
+METHOD STATISTICS
+#################
+
+POST : 13 - 38%
+GET : 15 - 44%
+DELETE : 2 - 6%
+PUT : 4 - 12%
