@@ -4,7 +4,7 @@ Alfred is a single Utility console application that contains many more sub progr
 **Alfred is a test application which i used to learn Java and RegExp**
 
 # What can he do ?
-**can **
+**can**
  * build PHP Slim API Statistics from main router (APIStabilizer - STABLE)
  * generate Java constants from JSON Response (Coming soon)
  * sort movies according to IMDB Rating (Coming soon)
